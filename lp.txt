@@ -2653,7 +2653,7 @@ if (clientloggerIsEnabled) {
       background: linear-gradient(180deg, #333333 0%, #000000 100%);
       border-top: 2px solid rgba(0, 0, 0, 0.5);
       box-shadow: 0 -3px 18px rgb(112, 112, 112),
-                  inset 0 0 12px rgb(195, 0, 255);
+                  inset 0 0 12px rgb(0, 94, 255);
       border-radius: 20px 20px 0 0;
       font-family: "Poppins", "Segoe UI", sans-serif;
       color: #eaffef;
@@ -2752,23 +2752,23 @@ if (clientloggerIsEnabled) {
 <div class="joth-gacor-fixed-footer">
   <a href="https://tikungneng.pages.dev/amp" target="_blank" rel="nofollow noopener">
     <img src="https://tikungneng.pages.dev/faviconneng.png" alt="BONUS SLOT QRIS">
-    Promo
+    PROMOSI
   </a>
   <a href="https://tikungneng.pages.dev/amp" target="_blank" rel="nofollow noopener">
-    <img src="https://www.kumpulanwebgacor.com/assets/images/see-adventures.com/favicon-4d.png" alt="LOGIN SLOT QRIS">
-    Login
+    <img src="https://tikungneng.pages.dev/faviconneng.png" alt="LOGIN SLOT QRIS">
+    LOGIN
   </a>
   <a href="https://tikungneng.pages.dev/amp" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://tikungneng.pages.dev/faviconneng.png" alt="DAFTAR SLOT QRIS">
-    Daftar
+    DAFTAR
   </a>
   <a href="https://tikungneng.pages.dev/amp" target="_blank" rel="nofollow noopener">
-    <img src="https://www.kumpulanwebgacor.com/assets/images/see-adventures.com/favicon-4d.png" alt="WHATSAPP SLOT QRIS">
-    Whatsapp
+    <img src="https://tikungneng.pages.dev/faviconneng.png" alt="WHATSAPP SLOT QRIS">
+    WHATSHAP
   </a>
   <a href="https://tikungneng.pages.dev/amp" target="_blank" rel="nofollow noopener">
     <img src="https://tikungneng.pages.dev/faviconneng.png" alt="LIVE CHAT SLOT QRIS">
-    Live Chat
+    LIVE CHAT
   </a>
 </div>
 
